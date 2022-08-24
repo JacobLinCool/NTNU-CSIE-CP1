@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/JacobLinCool/c-learning#readme",
   "dependencies": {
-    "md-to-pdf": "^5.0.0"
+    "md-to-pdf": "^5.1.0"
   }
 }
